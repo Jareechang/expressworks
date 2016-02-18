@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Jareechang/expressworks/issues"
   },
-  "homepage": "https://github.com/Jareechang/expressworks#readme"
+  "homepage": "https://github.com/Jareechang/expressworks#readme",
+  "devDependencies": {
+    "jade": "^1.11.0"
+  }
 }
