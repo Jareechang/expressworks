@@ -4,4 +4,4 @@ var express = require('express'),
     app.get('/', function(req,res){
         res.end('Hello World');
     })
-    app.listen(3000);
+    app.listen(process.argv[2]);
